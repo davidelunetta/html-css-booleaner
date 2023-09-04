@@ -1,0 +1,38 @@
+.pattern{
+    height: 180px;
+    background-image: url(../img/pattern.png); 
+    background-color: rgb(2, 141, 255);
+
+   
+}
+
+.logo{
+   margin-left: 240px;
+    float: left;
+    width: 300px;
+    height: 200px;
+    
+}
+
+h1{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+.autore{
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+}
+
+.tim1{
+    margin-left: 50px;
+}
+
+.description{
+    margin-top: 0px;
+    margin-left: 50px;
+}
