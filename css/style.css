@@ -38,8 +38,15 @@ h1{
     margin-left: 50px;
 }
 
-span{
+.lorem3{
     background-color: yellow;
+}
+
+.dati{
+    color: gray;
+}
+.booleaner{
+    color: aqua;
 }
 
 th{
@@ -47,7 +54,7 @@ th{
 }
 .prima-riga{
     
-    background-color: skyblue;
+    background-color: rgb(32, 169, 229);
 }
 .seconda-riga{
     background-color: skyblue;
