@@ -1,3 +1,4 @@
+
 .pattern{
     height: 180px;
     background-image: url(../img/pattern.png); 
@@ -35,4 +36,43 @@ h1{
 .description{
     margin-top: 0px;
     margin-left: 50px;
+}
+
+span{
+    background-color: yellow;
+}
+
+th{
+    width: 400px;
+}
+.prima-riga{
+    
+    background-color: skyblue;
+}
+.seconda-riga{
+    background-color: skyblue;
+}
+
+.quarta-riga{
+    background-color: skyblue;
+}
+
+.lorem1{
+    margin-left: 50px;
+}
+
+ul{
+    margin-left: 23px;
+}
+
+table{
+    margin-left: 50px;
+}
+
+footer{
+    margin-left: 50px;
+}
+
+.consigli{
+    color: gray;
 }
